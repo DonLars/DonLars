@@ -12,7 +12,7 @@
 ```diff
 !  I’m currently learning …
 ```
-### [Mycurrent time schedule]
+### [My current time schedule]
 
 - [x] Your frontend developer setup
 - [x] First Steps with Git
