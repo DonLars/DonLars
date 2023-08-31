@@ -4,7 +4,7 @@
 **Become a web developer:** :white_square_button: :white_medium_square: :white_medium_square: :white_medium_square: :white_medium_square: :white_medium_square: :white_medium_square: :white_medium_square: :white_medium_square:
 @coding-bootcamps-eu
 
-# Scroll to [schedule](#schedule)
+# [Scroll to schedule](#schedule)
 
 > 花よりだんご。(hana yori dango)
 
