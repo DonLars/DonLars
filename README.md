@@ -4,7 +4,7 @@
 **Become a web developer:** :white_square_button: :white_medium_square: :white_medium_square: :white_medium_square: :white_medium_square: :white_medium_square: :white_medium_square: :white_medium_square: :white_medium_square:
 @coding-bootcamps-eu
 
-# [scroll to time schedule](#My-current-time-schedule)
+# Scroll to [Sschedule](#schedule)
 
 > 花よりだんご。(hana yori dango)
 
@@ -12,7 +12,7 @@
 ```diff
 !  I’m currently learning …
 ```
-### [My current time schedule]
+### My current time schedule [schedule]
 
 - [x] Your frontend developer setup
 - [x] First Steps with Git
