@@ -4,9 +4,7 @@
 **Become a web developer:** :white_square_button: :white_medium_square: :white_medium_square: :white_medium_square: :white_medium_square: :white_medium_square: :white_medium_square: :white_medium_square: :white_medium_square:
 @coding-bootcamps-eu
 
-# [Heading Link](#section-i-want)
-
-
+# [scroll to time schedule](#My-current-time-schedule)
 
 > 花よりだんご。(hana yori dango)
 
@@ -14,8 +12,7 @@
 ```diff
 !  I’m currently learning …
 ```
-
-### My current time schedule
+### [My-current-time-schedule]
 
 - [x] Your frontend developer setup
 - [x] First Steps with Git
@@ -50,7 +47,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=vue) 
 
-## [Section I Want] 
+
 ---
 
 Made with :hearts:
