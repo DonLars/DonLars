@@ -16,8 +16,8 @@
 
 - [x] Your frontend developer setup
 - [x] First Steps with Git
-- [ ] HTML Foundation
-- [ ] CSS Foundation
+- [x] HTML Foundation
+- [x] CSS Foundation
 - [ ] Advanced CSS
 - [ ] Next steps with Git
 
