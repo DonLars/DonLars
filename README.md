@@ -1,25 +1,28 @@
-# Hi it's me, Lars ![hello](wavehand.gif)
+# Hi it's me, Lars 👋
 ## … a passionate frontend developer :man_technologist: from Germany :de:
 
-**Become a web developer:** :white_square_button: :white_medium_square: :white_medium_square: :white_medium_square: :white_medium_square: :white_medium_square: :white_medium_square: :white_medium_square: :white_medium_square:
+**Become a web developer:** :white_square_button: :white_square_button: :white_medium_square: :white_medium_square: :white_medium_square: :white_medium_square: :white_medium_square: :white_medium_square: :white_medium_square:
 @coding-bootcamps-eu
-
-- Go to my current [Schedule](#schedule)
-
-> 花よりだんご。(hana yori dango)
-
 
 ```diff
 !  I’m currently learning …
 ```
-# Schedule
+
+## neXt: Coding Foundation 
+
+- [ ] Introduction to programming with JavaScript
+- [ ] Solving Problems with JavaScript
+- [ ] From Objects to Classes
+- [ ] BONUS: Introduction to Programming with p5
+
+## Done: Webdev Foundation
 
 - [x] Your frontend developer setup
 - [x] First Steps with Git
 - [x] HTML Foundation
 - [x] CSS Foundation
-- [ ] Advanced CSS
-- [ ] Next steps with Git
+- [x] Advanced CSS
+- [x] Next steps with Git
 
 ### Languages and Tools
 - HTML5
