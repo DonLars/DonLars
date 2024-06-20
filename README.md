@@ -1,7 +1,7 @@
 # Hi it's me, Lars 👋
 … a passionate frontend designer and aspiring developer from Germany :man_technologist:
 
-**Become a web developer:** :white_square_button: :white_square_button: :white_square_button: :white_square_button: :white_square_button: :white_square_button: :white_square_button: :white_square_button: :white_medium_square:
+**Become a web developer:** :white_square_button: :white_square_button: :white_square_button: :white_square_button: :white_square_button: :white_square_button: :white_square_button: :white_square_button: :white_square_button:
 @coding-bootcamps-eu
 
 ### Skills
@@ -11,7 +11,7 @@
 - Vanilla JavaScript
 - VueJs (Vue Cli, Vite, Router)
 
-### Design / UX / UI
+### Design / UX / UI / Accessibility
 - Adobe Photoshop
 - Adobe Illustrator
 - Figma
